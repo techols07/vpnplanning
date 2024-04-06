@@ -1,4 +1,4 @@
-gcloud compute instances create "changemynameorLizzohumpsyou" --machine-type="e2-medium" --image-family="ubuntu-2004-lts" --image-project="ubuntu-os-cloud" 
+gcloud compute instances create "Kooltest" --machine-type="e2-medium" --image-family="ubuntu-2004-lts" --image-project="ubuntu-os-cloud" 
 
 
 You must plan
